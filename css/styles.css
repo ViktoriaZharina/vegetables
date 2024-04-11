@@ -61,6 +61,7 @@ font-weight: 600;
     gap: 20px;
 }
 .vegetables-item{
+    margin: 0 auto;
     width: 100%;
     border-radius: 40px;
     background: #fbfbfb;
